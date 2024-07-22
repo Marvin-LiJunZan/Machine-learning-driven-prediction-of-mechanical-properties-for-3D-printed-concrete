@@ -1,4 +1,4 @@
-  力学性能是3d打印混凝土的关键，因为它直接影响结构的承载能力和安全性。材料固有的复杂性和可变性对实现其机械性能的准确预测提出了挑战。
-为了预测抗压强度(CS)和抗弯强度(FS)，我们查阅了众多相关文献资料，搜集前人使用过的数据，把他们串联起来，最终得到了包含254个CS测试样本和210个FS测试样本的数据集。
-我们使用BP、随机森林、XGBoost和CatBoost四种ML模型进行了训练，结果喜人。
-秉持着科研无界，学术无我的态度，我们决定无偿将数据集公开，希望可以帮到有需要的科研人士。
+Mechanical properties are key to 3D printed concrete because they directly affect the load-bearing capacity and safety of the structure. The inherent complexity and variability of the material pose a challenge to accurately predict its mechanical properties.
+In order to predict the compressive strength (CS) and flexural strength (FS), we consulted a lot of relevant literature, collected data used by predecessors, connected them in series, and finally obtained a dataset containing 254 CS test samples and 210 FS test samples.
+We used four ML models, BP, random forest, XGBoost and CatBoost, for training, and the results were gratifying.
+Adhering to the attitude of scientific research without boundaries and academic selflessness, we decided to make the dataset public for free, hoping to help researchers in need.
